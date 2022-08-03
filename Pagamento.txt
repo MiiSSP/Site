@@ -1,0 +1,5 @@
+Calcular CEP
+Mostrar valor e prazo do frete
+Mostrar valor total a pagar
+Solicitar login ou cadastro 
+Pagamento (Credito/Pix/Boleto)
