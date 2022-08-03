@@ -1,0 +1,4 @@
+Mostrar itens no carrinho
+Mostrar valor total dos itens
+Dar a opção de calcular frete
+apresntar valores de frete
